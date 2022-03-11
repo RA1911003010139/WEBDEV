@@ -1,1 +1,6 @@
-https://ra1911003010139.github.io/WEBDEV/module2/
+
+# Module-2 Coding Assignment
+
+Coursera course: HTML, CSS, and Javascript for Web Developers
+
+# To see the output [CLICK HERE](https://ra1911003010139.github.io/WEBDEV/module2)
